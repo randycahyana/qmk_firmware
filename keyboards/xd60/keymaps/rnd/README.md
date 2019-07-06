@@ -7,4 +7,7 @@ For linux it's easy:
 
 Not on linux? see https://docs.qmk.fm/getting_started_build_tools.html#mac or https://docs.qmk.fm/getting_started_build_tools.html#windows-with-msys2-recommended
 
+- run `sudo make:xd60:rnd`
+- reset the controller if you got error `device not present`
+
 
